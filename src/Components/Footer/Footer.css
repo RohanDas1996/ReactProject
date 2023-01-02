@@ -1,0 +1,13 @@
+.footer{
+    height: 60px;
+    width: 100%;
+    background-color: whitesmoke;
+    position: relative;
+    bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer > h2{
+   color: #666;
+}
